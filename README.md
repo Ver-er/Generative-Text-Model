@@ -39,8 +39,8 @@ This project demonstrates how to leverage pre-trained GPT-2 models from Hugging 
 
 1. Clone this repository:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Ver-er/Generative-Text-Model.git
+   cd Generative-Text-Model
    ```
 
 2. Install the required packages:
